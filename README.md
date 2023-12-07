@@ -8,7 +8,7 @@ Power BI Report to track KPIs (sales, revenue, profit, returns), compare regiona
 https://drive.google.com/file/d/1j89qorT3SkqD-FO5yGIdSg5KPu0swgYL/view
 
 ## Problem Statement
-Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.
+Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States wants the Power BI Report to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
 
 This dashboard helps the company to understand their customers better. It helps the company know if their customers are satisfied with their services. Through analyzing trends and pattern they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the which product is high in demand  & product which causing loss to the company, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted issue and the number one customer  .
 
